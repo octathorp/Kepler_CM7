@@ -1,0 +1,34 @@
+CyanogenMod 7.2 for bq Kepler (RK2918 based device)
+
+---------------------------------------------------
+
+Author: Octathorp
+Contributors:
+
+---------------------------------------------------
+
+Project info
+
+Initial beta release of Android2.3.7-based CyanogenMod 7.2.
+
+---------------------------------------------------
+
+Beta 1 (2011/11/30)
+
+Working:
+- Screen
+- Touch panel
+- 3D
+- WiFi
+- SD/Nand flash
+- USB Host
+- Audio
+- Microphone
+- Accelerometer
+- ...
+
+Non working:
+- Camera
+- HDMI
+- Battery meter
+- Maybe a lot of things
